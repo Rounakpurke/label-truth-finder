@@ -1,0 +1,4 @@
+{
+  "_readme": "Curated regulation entries. Ships EMPTY on purpose: no regulatory claim is made unless you add an entry that cites an official source you have actually checked. An entry is only used as 'confirmed' or 'none_found' if it has status, explanation, source_name, source_url AND date; otherwise it is downgraded to 'not_verified'.",
+  "entries": []
+}
